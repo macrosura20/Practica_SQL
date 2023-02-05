@@ -283,11 +283,11 @@ values('C0006','2019-08-05','21900','EURO','5867HGF','JUKE','PLATA','ALLIANZ','T
 
 insert into KCcoches.coches --DOLLARS
 (IdCoche, fecha_compra, precio_compra, IdMoneda, matricula, IdModelo, IdColor, IdAseguradora, num_poliza, km_recorridos, IdEstado)
-values('C0007','2012-07-26','23000','DOLLARS_USA','8901GHT','CAPTUR','BLANCO','MAPFRE','I27635T123','65000', 'ACTIVO');
+values('C0007','2012-07-26','27000','DOLLARS_USA','8901GHT','COROLLA','BLANCO','MAPFRE','I27635T123','65000', 'ACTIVO');
 
 insert into KCcoches.coches
 (IdCoche, fecha_compra, precio_compra, IdMoneda, matricula, IdModelo, IdColor, IdAseguradora, num_poliza, km_recorridos, IdEstado)
-values('C0008','2019-02-22','20000','EURO','0234KSM','JUKE','PLATA','AXA','L123B2314','150000', 'INACTIVO');
+values('C0008','2019-02-22','20000','EURO','0234KSM','JUKE','PLATA','AXA','L123B2314','150000', 'ACTIVO');
 
 insert into KCcoches.coches --DOLLARS
 (IdCoche, fecha_compra, precio_compra, IdMoneda, matricula, IdModelo, IdColor, IdAseguradora, num_poliza, km_recorridos, IdEstado)
